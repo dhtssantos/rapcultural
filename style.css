@@ -1,0 +1,86 @@
+
+body {
+
+	background: #CCCCCC;
+}
+
+.border-radius {
+	border-radius: 50px;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.fundo {
+	background: #FFFFFF;
+	border-top: 100px;
+}
+
+.forma {
+	text-align: center;
+}
+p {
+	padding: 30px;
+}
+
+h1 {
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	padding: 20px;
+}
+
+.font-compreagora {
+	background: #FFFAFA;
+}
+
+.text {
+    line-height: 2.5;
+}
+
+.texto {
+    text-align:center;
+}
+
+strong {
+	color: black;
+}
+
+h2 {
+	color: #FFFAFA;
+}
+
+b {
+	color: #8B4513;
+}
+
+h1 {
+	color: #FFFFFF;
+}
+
+.target {
+	color: #000000; font-weight: bold;
+}
+
+.fim {
+	margin-top: 50px;
+	background: #FFFFFF;
+}
+.meio {
+	background: #FFFFFF;
+}
+
+.artista {
+	font-style: italic;
+	margin-bottom: 10px;
+}
+
+.titulo {
+	color: #FFFFFF;
+}
+
